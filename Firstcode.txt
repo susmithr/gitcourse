@@ -1,2 +1,4 @@
 Hello world Git
 take input from user
+second line
+submit to DB
