@@ -1,7 +1,9 @@
 add and remove the user
 change the roles
 manage the DB
-closing the local network connection
+
+closing the VPN network connection
+
 change 1
 
 
