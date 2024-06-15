@@ -1,7 +1,7 @@
 add and remove the user
 change the roles
 manage the DB
-closing the DB connection
+closing the network connection
 change 1
 
 
