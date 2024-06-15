@@ -2,3 +2,5 @@ Get user data
 
 create an avataar for user
 
+login and logout details of user
+
