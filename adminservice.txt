@@ -3,4 +3,8 @@ change the roles
 manage the DB
 closing the DB connection
 change 1
-change 2 in the database
+
+
+
+change 2 in oralce DB
+
